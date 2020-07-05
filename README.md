@@ -4,4 +4,6 @@ Prerequiste:
   2. pycharm
   3. pytest
   4. Selenium
-  5. Browser Drivers
+  5. Browser Drivers (please update the path in the conftest.py file)
+  
+  
